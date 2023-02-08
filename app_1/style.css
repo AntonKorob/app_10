@@ -1,0 +1,54 @@
+body{
+    background-image: url('https://avatars.mds.yandex.net/i?id=e5adc0ae96642fb8c3760525663689f9-4146484-images-thumbs&n=13');
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+    }
+
+input{
+    width: 333px;
+    height: 32px;
+    margin: 24px;
+    padding: 11px;
+    display: flex;
+    
+}
+
+textarea, textarea{
+    width: 333px;
+    height: 232px;
+    margin: 24px;
+    padding: 11px;
+    display: flex;
+  
+    background-color: rgb(232, 194, 194);
+}
+
+.post{
+    width: 555px;
+    margin: 22px;
+    padding: 24px;
+   
+}
+
+.logo_img{
+    margin-left: 22px;
+    width: 72px;
+    height: 62px;
+    background-color: rgb(231, 184, 184);
+    float: left;
+}
+.link {
+    
+    width: 320px;
+    height: 43px;
+}
+
+
+.task-list{
+    margin: 11px;
+    padding: 11px;
+    display: flex;
+
+}
+
